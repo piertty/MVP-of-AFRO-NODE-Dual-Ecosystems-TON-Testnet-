@@ -1,1 +1,1 @@
-# MVP-of-AFRO-NODE-Dual-Ecosystems-TON-Testnet-
+# MVP-of-AFRO-NODE-Dual-Ecosystems-on-TON-Testnet-
